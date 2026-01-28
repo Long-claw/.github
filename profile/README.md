@@ -2,10 +2,6 @@
 <!--  LONGCLAW ORG PROFILE -->
 <!-- ===================== -->
 
-<p align="center">
-  <img src="https://placehold.co/1200x300?text=LONGCLAW" alt="Longclaw Banner" />
-</p>
-
 <h1 align="center">Longclaw</h1>
 
 <p align="center">
@@ -13,12 +9,12 @@
 </p>
 
 <p align="center">
-  Aviation • Marine • Real-time Systems • Cloud Platforms
+  Software Solutions • Real-time Systems • Cloud Platforms
 </p>
 
 ---
 
-## 🗡️ About Longclaw
+## About Longclaw
 
 **Longclaw** is a software engineering organization focused on building **robust, scalable, and mission-critical systems** for environments where reliability matters most.
 
@@ -29,24 +25,6 @@ Inspired by endurance, reach, and precision, our work is designed to:
 
 We build software that lasts — just like the blade we’re named after.
 
----
-
-## ⚙️ What We Build
-
-- ✈️ **Aviation systems** (data platforms, analytics, backend services)
-- 🌊 **Marine & logistics software** (tracking, auctions, workflows)
-- 🔄 **Real-time platforms** (WebSockets, event-driven systems)
-- ☁️ **Cloud-native backends** (AWS, CI/CD, scalable APIs)
-- 🔐 **Secure, production-grade applications**
-
----
-
-## 🧠 Engineering Principles
-
-- **Reliability first** — systems must survive real-world conditions  
-- **Clarity over complexity** — simple, maintainable architectures  
-- **Scalability by design** — not as an afterthought  
-- **Security & trust** — built into every layer  
 
 
 
