@@ -28,7 +28,7 @@ We build software that lasts — just like the blade we’re named after.
 
 
 
-## 🧭 Vision
+## Vision
 
 To build software that can be trusted in critical domains —  
 **from the skies above to the seas below.**
