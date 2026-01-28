@@ -48,29 +48,7 @@ We build software that lasts — just like the blade we’re named after.
 - **Scalability by design** — not as an afterthought  
 - **Security & trust** — built into every layer  
 
----
 
-## 🛠️ Tech Stack
-
-- **Backend:** Node.js, TypeScript, Java, Spring Boot  
-- **Frontend:** React, React Native, Expo  
-- **Databases:** PostgreSQL, MySQL  
-- **Cloud & DevOps:** AWS, Azure, Docker, GitHub Actions  
-- **Architecture:** REST, WebSockets, Microservices  
-
----
-
-## 📂 Repositories
-
-Our repositories include:
-- Production-ready backend services
-- Mobile & web applications
-- DevOps pipelines & infrastructure code
-- Research and experimental systems
-
-Each project follows clean architecture and real-world constraints.
-
----
 
 ## 🧭 Vision
 
